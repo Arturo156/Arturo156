@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hola Chavos 👋
 
-<!--
-**Arturo156/Arturo156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Buenas, este es mi perfil escolar para la materia de **lenguajes de interfaz**:
 
-Here are some ideas to get you started:
+- 🔭 Estudiante del instituto tecnologico de tijuana.
+- 🌱 Aprendiendo c++.
+- ⚡ Aprendiendo todo lo que se puede.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Experiencia previa*:
+Ninguna :D
+
+**Mi horario**
+|          Materia         |             Maestro             |    Lunes    |    Martes   |  Miercoles  |    Jueves   |   Viernes   |
+|:------------------------:|:-------------------------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| Tall de investigacion II | Martha Patricia Ochoa  Velardez | 19:00-20:00 | 19:00-20:00 | 19:00-20:00 | 19:00-20:00 |             |
+| Computo Distribuido      | Ray Brunett Parra Galaviz       | 16:00-17:00 | 16:00-17:00 | 16:00-17:00 | 16:00-17:00 | 16:00-17:00 |
+| Admon de base de datos   | Ashlee Evelin Robles Gallegos   | 17:00-18:00 | 17:00-18:00 | 17:00-18:00 | 17:00-18:00 | 17:00-18:00 |
+| Lenguajes de Interfaz    | Rene Solis Reyes                | 14:00-15:00 | 14:00-15:00 | 14:00-15:00 | 14:00-15:00 |             |
+| Ing de Software          |                                 | 13:00-14:00 | 13:00-14:00 | 13:00-14:00 | 13:00-14:00 | 13:00-14:00 |
+| Redes De Computadoras    | Adriana Isela Gonzales Meza     | 15:00-16:00 | 15:00-16:00 | 15:00-16:00 | 15:00-16:00 | 15:00-16:00 |
