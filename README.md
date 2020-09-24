@@ -1,13 +1,13 @@
 ![](https://images.cooltext.com/5466282.gif)
 
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
-### Hola Chavos 👋
+### *Hola Chavos* 👋
 
 Buenas, este es mi perfil escolar para la materia de **lenguajes de interfaz**:
 
-- 🔭 Estudiante del instituto tecnologico de tijuana.
-- 🌱 Aprendiendo c++.
-- ⚡ Aprendiendo todo lo que se puede.
+- 🔭 *Estudiante del instituto tecnologico de tijuana*.
+- 🌱 *Aprendiendo c++*.
+- ⚡ *Aprendiendo todo lo que se puede*.
 
 *Experiencia previa*:
 Ninguna :D
